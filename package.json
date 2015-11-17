@@ -1,6 +1,6 @@
 {
     "name": "bbop-response-golr",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "license": "BSD-3-Clause",
     "description": "Response type and API for handling the returns from a GOlr instance in a standard way.",
     "keywords": [
