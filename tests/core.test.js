@@ -129,6 +129,7 @@ describe('bbop-response-golr', function(){
 
 	// Absolute basics.
 	assert.isTrue(bgr.success(), 'looks like success');
+	assert.isTrue(bgr.okay(), 'looks okay too');
 	assert.equal(bgr.callback_type(), 'search',
 		     'looks like a "search"');
 
