@@ -10,8 +10,6 @@ chai.config.includeStack = true;
 var assert = chai.assert;
 
 // Correct environment, ready testing.
-var bbop = require('bbop-core');
-//var amigo = require('amigo2');
 var bbop_response_golr = require('..');
 
 ///
